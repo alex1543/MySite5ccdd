@@ -10,3 +10,7 @@ First
 Главная страница HTML5-сайта:
 
 ![image](https://user-images.githubusercontent.com/10297748/155697610-58face89-6671-4f3b-8c97-426d472469a5.png)
+
+Типовая страница:
+
+![image](https://user-images.githubusercontent.com/10297748/155697823-b638a47a-b5b1-42fc-8d27-38a86ec6153e.png)
